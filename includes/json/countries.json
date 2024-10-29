@@ -1,0 +1,11 @@
+[
+    {
+        "id": 2,
+        "name": "United States",
+        "iso3": "USA",
+        "iso2": "US",
+        "phone_code": "1",
+        "capital": "Washington",
+        "currency": "USD"
+    }
+]
